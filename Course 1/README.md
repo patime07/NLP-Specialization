@@ -1,4 +1,4 @@
-Course 1: Natural Language Processing with Classification and Vector Spaces
+**Course 1: Natural Language Processing with Classification and Vector Spaces**
 
   Week 1: Sentiment Analysis With Logistic Regression
   
